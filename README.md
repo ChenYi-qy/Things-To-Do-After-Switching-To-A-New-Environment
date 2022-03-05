@@ -8,6 +8,8 @@
 * [Vim](https://github.com/ChenYi-qy/My-Vim-Config)
 * Vistual Studio
 * Intellij IDEA
+* Notion
+* Virtual Machine
 
 
 ## Step3 Theme Configuration
