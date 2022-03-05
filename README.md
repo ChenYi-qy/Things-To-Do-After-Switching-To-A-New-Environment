@@ -1,4 +1,4 @@
-# Things-To-Do-When-Switch-To-A-New-Environment
+# Things To Do After Switching To A New Environment
 
 ## Step1 Configure Needed Environment
 * OpenJDK
