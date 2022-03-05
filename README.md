@@ -5,7 +5,7 @@
 * Node.js
 
 ## Step2 Install Needed Tools
-* Vim
+* [Vim](https://github.com/ChenYi-qy/My-Vim-Config)
 * Vistual Studio
 * Intellij IDEA
 
