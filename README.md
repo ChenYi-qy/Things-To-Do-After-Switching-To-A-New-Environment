@@ -19,3 +19,22 @@
 ## Step4 Proxy Configuration(Optional)
 * [v2raya](https://github.com/v2rayA/v2rayA)
 * [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)
+
+## Step4 Manjaro Shortcut Configuration(Optional)
+
+### Windows Control
+* Super + C -> Close window
+* Super + H -> Hide window
+* Super + M -> Toggle maximization state
+* Super + Left -> View split on left
+* Super + Right -> View split on right
+* Super + T -> Open a new ternimal
+
+### System
+* Super + L -> Lock screen
+* Alt + F2 -> Show the run command prompt
+
+### Typing
+* Alt + Space -> Switch to next input source
+
+### 
