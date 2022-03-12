@@ -10,6 +10,7 @@
 * Intellij IDEA
 * Notion
 * Virtual Machine
+* [Fcitx5](https://fcitx-im.org/wiki/Fcitx_5/zh-cn)
 
 
 ## Step3: Theme Configuration
