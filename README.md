@@ -9,8 +9,10 @@
 * Vistual Studio
 * Intellij IDEA
 * Notion
-* Virtual Machine
+* Virtual Box
 * [Fcitx5](https://fcitx-im.org/wiki/Fcitx_5/zh-cn)
+* Shutter
+* Telegram
 
 
 ## Step3: Theme Configuration
