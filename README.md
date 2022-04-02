@@ -13,6 +13,7 @@
 * [Fcitx5](https://fcitx-im.org/wiki/Fcitx_5/zh-cn)
 * Shutter
 * Telegram
+* [netease-cloud-music](https://aur.archlinux.org/packages/netease-cloud-music)
 
 
 ## Step3: Theme Configuration
