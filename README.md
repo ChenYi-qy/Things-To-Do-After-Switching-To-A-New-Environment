@@ -7,6 +7,10 @@
 ## Step2: Install Needed Tools
 * [Vim](https://github.com/ChenYi-qy/My-Vim-Config)
 * Vistual Studio
+  * Gitlens - visualize code authorship
+  * GitHub Pull Requests and Issues - review and manage your GitHub pull requests and issues
+  * Gruvbox Material
+  
 * Intellij IDEA
 * Notion
 * Virtual Box
