@@ -40,8 +40,9 @@
 
 ### Navigation
 * Super + S -> Switch winodws of an application
-* Super + N -> Switch to workspace N
-* Shift + Super + N -> Move window to workspace N
+* Super + N -> Move window to workspace N
+* Super + LEFT -> Move to workspace on the right
+* Super + RIGHT -> Move to workspace on the left
 * Super + Up -> Move window one monitor up
 * Super + Down -> Move window one monitor down
 
@@ -53,5 +54,6 @@
 
 ### Typing
 * Alt + Space -> Switch to next input source
+* Ctrl + Shift + F -> Switch between traditional/Simple Chinese 
 
 
