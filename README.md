@@ -18,6 +18,7 @@
 * Shutter
 * Telegram
 * [netease-cloud-music](https://aur.archlinux.org/packages/netease-cloud-music)
+* [deep-wine-wechat](https://github.com/vufa/deepin-wine-wechat-arch)
 
 
 ## Step3: Theme Configuration
